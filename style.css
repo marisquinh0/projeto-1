@@ -1,11 +1,12 @@
-body{
- color: #413838;
- background-color:rgb(232, 14, 192)
+body {
+    color: #413838;
+    background-color: rgb(232, 14, 192);
 }
-section{
-background: rgba(19, 148, 38, 0.745);
-padding-bottom: 80px;
-padding-top: 80px;
-display: flex;
-justify-content: center;
+
+section {
+    background: rgba(19, 148, 38, 0.745);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
